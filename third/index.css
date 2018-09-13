@@ -1,0 +1,44 @@
+header{
+    height: 15vh;
+    width: 98vw;
+    background-color: #dad8d8;
+}
+.bluebox{
+    height: 10vh;
+    width: 10vw;
+    background-color: #5598f0;
+    margin-left: 20px;
+    margin-top: 20px;
+    float: left;
+}
+.pbackground{
+    height: 25vh;
+    width: 98vw;
+    background-color: white;
+}
+p{
+    text-align: center;
+    padding: 20px;
+    font-size: 20px;
+    font-family: sans-serif;
+}
+.bluestripe{
+    height: 15vh;
+    width: 98vw;
+    background-color: #5598f0;
+}
+.greenstripe{
+    height: 15vh;
+    width: 98vw;
+    background-color: #4cf5bc;
+}
+.weirdgreen{
+    height: 15vh;
+    width: 98vw;
+    background-color: rgb(190, 235, 107);
+}
+.yellar{
+    height: 15vh;
+    width: 98vw;
+    background-color: rgb(241, 241, 14);
+}
